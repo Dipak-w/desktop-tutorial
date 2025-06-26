@@ -4,7 +4,7 @@ git init
 ls -a
 git ststus
 git --help 
-add testing.py       
+git add testing.py       
 commit -m "added ... 
 rm testing.py
 ls
@@ -13,11 +13,11 @@ git restore testing.py
 git remote add origin https://github.... 
 git remote -v
 git remote set-url origin https://ghp... 
-git push origin master
+git push origin main
 
  history
   45 clear
-  46 git push origin master
+  46 git push origin main
   47 history
   48 clear
   49 git remote set-url origin https://ghp... 
