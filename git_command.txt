@@ -1,0 +1,33 @@
+git init
+rm testing.py
+git init
+ls -a
+git ststus
+git --help 
+add testing.py       
+commit -m "added ... 
+rm testing.py
+ls
+git restore testing.py 
+
+git remote add origin https://github.... 
+git remote -v
+git remote set-url origin https://ghp... 
+git push origin master
+
+ history
+  45 clear
+  46 git push origin master
+  47 history
+  48 clear
+  49 git remote set-url origin https://ghp... 
+  50 git branch -M main
+  51 git remote -v
+  52 git branch -M main
+  53 git status
+  54 git push origin master
+  55 git status
+  56 git remote set-url origin https://ghp... 
+  57 git status
+  58 git push origin main
+  59 git remote -v
